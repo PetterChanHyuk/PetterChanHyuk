@@ -22,3 +22,4 @@
 </p>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetterChanhyuk&show_icons=true&theme=radical)
+[![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=chishahaboy)](https://solved.ac/chishahaboy)
