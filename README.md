@@ -22,6 +22,6 @@
 </p>
 
 ### Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PetterChanhyuk&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PetterChanhyuk&show_icons=true&theme=radical&cache_seconds=86400)
 <br />
 [![Solved.acbulliiee](http://mazassumnida.wtf/api/v2/generate_badge?boj=chishahaboy)](https://solved.ac/chishahaboy)
